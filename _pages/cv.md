@@ -9,56 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work experience
+<!-- =============== -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 10/2020 - Head of Data Science at [DiagRAMS Technologies](https://diagrams-technologies.com/), Lille
+* 10/2019 to 09/2020 - R&D Engineer at MODAL team, Inria Lille - Nord Europe
+* 10/2016 to 09/2019 - Technology Transfer Engineer, Inria Lille - Nord Europe
+* 10/2013 to 09/2016 - Phd in Statistics at MODAL team, Inria Lille - Nord Europe
+* 10/2012 to 09/2013 - R&D Engineer at MODAL team, Inria Lille - Nord Europe
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+<!-- ========= -->
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Statistics, Inria-DGA-Université de Lille, 2016
+* M.S. in Statistical and numerical engineering, Université de Lille, 2012
+* M.S. in Probability and statistics, Université de Lille, 2011
+* B.S. in Mathematics, Université catholique de Lille, 2009
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Links
+
+* See [here](../files/cvEN.pdf) for a more detailed cv.
+* Some R packages I developed: <https://github.com/modal-inria/>
