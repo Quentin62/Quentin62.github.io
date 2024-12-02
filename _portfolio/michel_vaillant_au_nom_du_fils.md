@@ -6,5 +6,5 @@ excerpt: "<img src='../dedicace/michel_vaillant_au_nom_du_fils.jpg'>"
 date: 2023-09-10
 ---
 
-Dédicace de : Benéteau (Bruxelles, 2023)
+Dédicace de : Benjamin Benéteau (Bruxelles, 2023)
 <img src='../dedicace/michel_vaillant_au_nom_du_fils.jpg'>

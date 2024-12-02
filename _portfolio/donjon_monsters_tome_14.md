@@ -6,5 +6,5 @@ excerpt: "<img src='../dedicace/donjon_monsters_tome_14.jpg'>"
 date: 2023-04-01
 ---
 
-Dédicace de : Quignon (Lambersart, 2023)
+Dédicace de : Bastien Quignon (Lambersart, 2023)
 <img src='../dedicace/donjon_monsters_tome_14.jpg'>
