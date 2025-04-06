@@ -6,5 +6,5 @@ excerpt: "<img src='../dedicace/walter_appleduck_tome_1.jpg'>"
 date: 2022-09-10
 ---
 
-Dédicace de : Fabrice Erre (Bruxelles, 2022)<br>Dédicace cross-over entre les Fabrices et Walter Appleduck.
+Dédicace de : Fabrice Erre (Bruxelles, 2022)<br>Dédicace cross-over entre les Fabrices de l'édito de Spirou (Fabrice Erre et Fabcaro) et Walter Appleduck.
 <img src='../dedicace/walter_appleduck_tome_1.jpg'>

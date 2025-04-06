@@ -1,5 +1,5 @@
 ---
-title: "Iznogoud : Des bougies pour Iznogoud       "
+title: "Iznogoud : Des bougies pour Iznogoud"
 collection: portfolio
 permalink: /portfolio/iznogoud_des_bougies_pour_iznogoud
 excerpt: "<img src='../dedicace/iznogoud_des_bougies_pour_iznogoud.jpg'>"
