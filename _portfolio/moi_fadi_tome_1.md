@@ -1,7 +1,7 @@
 ---
 title: "Moi, Fadi, le frère volé : Tome 1"
 collection: portfolio
-permalink: /portfolio/moi_fadi_tome_1
+permalink: /portfolio/moi_fadi_tome_1sitemap: false
 excerpt: "<img src='../dedicace/moi_fadi_tome_1.jpg'>"
 date: 2024-10-05
 ---

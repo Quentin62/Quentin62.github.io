@@ -1,7 +1,7 @@
 ---
 title: "Iznogoud : Des bougies pour Iznogoud"
 collection: portfolio
-permalink: /portfolio/iznogoud_des_bougies_pour_iznogoud
+permalink: /portfolio/iznogoud_des_bougies_pour_iznogoudsitemap: false
 excerpt: "<img src='../dedicace/iznogoud_des_bougies_pour_iznogoud.jpg'>"
 date: 2022-11-20
 ---

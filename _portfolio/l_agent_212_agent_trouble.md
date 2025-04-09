@@ -1,7 +1,7 @@
 ---
 title: "Agent 212 : Agent Trouble"
 collection: portfolio
-permalink: /portfolio/l_agent_212_agent_trouble
+permalink: /portfolio/l_agent_212_agent_troublesitemap: false
 excerpt: "<img src='../dedicace/l_agent_212_agent_trouble.jpg'>"
 date: 2024-11-16
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Les petits mythos : La compil' mythologique"
 collection: portfolio
-permalink: /portfolio/les_petits_mythos
+permalink: /portfolio/les_petits_mythossitemap: false
 excerpt: "<img src='../dedicace/les_petits_mythos.jpg'>"
 date: 2025-04-05
 ---

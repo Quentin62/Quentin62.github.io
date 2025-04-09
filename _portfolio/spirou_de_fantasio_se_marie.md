@@ -1,7 +1,7 @@
 ---
 title: "Le Spirou de : Fantasio se marie"
 collection: portfolio
-permalink: /portfolio/spirou_de_fantasio_se_marie
+permalink: /portfolio/spirou_de_fantasio_se_mariesitemap: false
 excerpt: "<img src='../dedicace/spirou_de_fantasio_se_marie.jpg'>"
 date: 2016-06-11
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Le Spirou de : Spirou chez les fous"
 collection: portfolio
-permalink: /portfolio/spirou_chez_les_fous
+permalink: /portfolio/spirou_chez_les_foussitemap: false
 excerpt: "<img src='../dedicace/spirou_chez_les_fous.jpg'>"
 date: 2024-04-14
 ---

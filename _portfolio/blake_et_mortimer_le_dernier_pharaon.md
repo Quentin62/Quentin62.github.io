@@ -1,7 +1,7 @@
 ---
 title: "Blake et Mortimer : Le dernier pharaon"
 collection: portfolio
-permalink: /portfolio/blake_et_mortimer_le_dernier_pharaon
+permalink: /portfolio/blake_et_mortimer_le_dernier_pharaonsitemap: false
 excerpt: "<img src='../dedicace/blake_et_mortimer_le_dernier_pharaon.jpg'>"
 date: 2019-09-14
 ---

@@ -1,7 +1,7 @@
 ---
 title: "L'île carrément perdue : Grog en stock"
 collection: portfolio
-permalink: /portfolio/l_ile_carrement_perdue_tome_1
+permalink: /portfolio/l_ile_carrement_perdue_tome_1sitemap: false
 excerpt: "<img src='../dedicace/l_ile_carrement_perdue_tome_1.jpg'>"
 date: 2016-06-11
 ---

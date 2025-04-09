@@ -1,7 +1,7 @@
 ---
 title: "Lucky Luke par : Affiche (50x70cm)"
 collection: portfolio
-permalink: /portfolio/lucky_luke_bonhomme
+permalink: /portfolio/lucky_luke_bonhommesitemap: false
 excerpt: "<img src='../dedicace/lucky_luke_bonhomme.jpg'>"
 date: 2016-04-17
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Spirou : Lune Fatale"
 collection: portfolio
-permalink: /portfolio/spirou_et_fantasio_tome_45
+permalink: /portfolio/spirou_et_fantasio_tome_45sitemap: false
 excerpt: "<img src='../dedicace/spirou_et_fantasio_tome_45.jpg'>"
 date: 2025-04-05
 ---

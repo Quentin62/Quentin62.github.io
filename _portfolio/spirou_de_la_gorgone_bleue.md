@@ -1,7 +1,7 @@
 ---
 title: "Le Spirou de : La gorgone bleue"
 collection: portfolio
-permalink: /portfolio/spirou_de_la_gorgone_bleue
+permalink: /portfolio/spirou_de_la_gorgone_bleuesitemap: false
 excerpt: "<img src='../dedicace/spirou_de_la_gorgone_bleue.jpg'>"
 date: 2023-09-10
 ---

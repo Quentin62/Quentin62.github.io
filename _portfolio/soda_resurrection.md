@@ -1,7 +1,7 @@
 ---
 title: "Soda : Résurrection"
 collection: portfolio
-permalink: /portfolio/soda_resurrection
+permalink: /portfolio/soda_resurrectionsitemap: false
 excerpt: "<img src='../dedicace/soda_resurrection.jpg'>"
 date: 2025-04-05
 ---

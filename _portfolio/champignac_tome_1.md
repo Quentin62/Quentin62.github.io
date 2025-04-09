@@ -1,7 +1,7 @@
 ---
 title: "Champignac : Énigma"
 collection: portfolio
-permalink: /portfolio/champignac_tome_1
+permalink: /portfolio/champignac_tome_1sitemap: false
 excerpt: "<img src='../dedicace/champignac_tome_1.jpg'>"
 date: 2019-09-14
 ---

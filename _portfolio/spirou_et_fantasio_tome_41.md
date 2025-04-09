@@ -1,7 +1,7 @@
 ---
 title: "Spirou et Fantasio : La vallée des bannis"
 collection: portfolio
-permalink: /portfolio/spirou_et_fantasio_tome_41
+permalink: /portfolio/spirou_et_fantasio_tome_41sitemap: false
 excerpt: "<img src='../dedicace/spirou_et_fantasio_tome_41.jpg'>"
 date: 2022-11-20
 ---

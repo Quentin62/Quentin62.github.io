@@ -1,7 +1,7 @@
 ---
 title: "Léonard : Génie en Balade"
 collection: portfolio
-permalink: /portfolio/leonard_genie_en_balade
+permalink: /portfolio/leonard_genie_en_baladesitemap: false
 excerpt: "<img src='../dedicace/leonard_genie_en_balade.jpg'>"
 date: 2021-11-20
 ---

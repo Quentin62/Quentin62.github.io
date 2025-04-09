@@ -1,7 +1,7 @@
 ---
 title: "Le petit Spirou : N'oublie pas ta capuche!"
 collection: portfolio
-permalink: /portfolio/le_petit_spirou_tome_6
+permalink: /portfolio/le_petit_spirou_tome_6sitemap: false
 excerpt: "<img src='../dedicace/le_petit_spirou_tome_6.jpg'>"
 date: 2025-04-05
 ---

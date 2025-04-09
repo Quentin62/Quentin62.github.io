@@ -1,7 +1,7 @@
 ---
 title: "Walter Appleduck : Cow-boy stagiaire"
 collection: portfolio
-permalink: /portfolio/walter_appleduck_tome_1
+permalink: /portfolio/walter_appleduck_tome_1sitemap: false
 excerpt: "<img src='../dedicace/walter_appleduck_tome_1.jpg'>"
 date: 2022-09-10
 ---

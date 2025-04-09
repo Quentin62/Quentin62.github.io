@@ -1,7 +1,7 @@
 ---
 title: "Atom Agency : Les bijoux de la Bégum"
 collection: portfolio
-permalink: /portfolio/atom_agency_tome_1
+permalink: /portfolio/atom_agency_tome_1sitemap: false
 excerpt: "<img src='../dedicace/atom_agency_tome_1.jpg'>"
 date: 2022-09-10
 ---

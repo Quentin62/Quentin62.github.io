@@ -1,7 +1,7 @@
 ---
 title: "Blake et Mortimer : L'onde Septimus"
 collection: portfolio
-permalink: /portfolio/blake_et_mortimer_tome_22
+permalink: /portfolio/blake_et_mortimer_tome_22sitemap: false
 excerpt: "<img src='../dedicace/blake_et_mortimer_tome_22.jpg'>"
 date: 2022-09-10
 ---

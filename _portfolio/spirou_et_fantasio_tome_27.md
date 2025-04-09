@@ -1,7 +1,7 @@
 ---
 title: "Spirou et Fantasio : L'ankou"
 collection: portfolio
-permalink: /portfolio/spirou_et_fantasio_tome_27
+permalink: /portfolio/spirou_et_fantasio_tome_27sitemap: false
 excerpt: "<img src='../dedicace/spirou_et_fantasio_tome_27.jpg'>"
 date: 2017-11-11
 ---

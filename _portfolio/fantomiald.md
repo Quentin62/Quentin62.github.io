@@ -1,7 +1,7 @@
 ---
 title: "Disney/glénat : Un travail pour Fantomiald"
 collection: portfolio
-permalink: /portfolio/fantomiald
+permalink: /portfolio/fantomialdsitemap: false
 excerpt: "<img src='../dedicace/fantomiald.jpg'>"
 date: 2024-11-16
 ---

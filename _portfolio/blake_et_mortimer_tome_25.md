@@ -1,7 +1,7 @@
 ---
 title: "Blake et Mortimer : La vallée des immortels Tome 1"
 collection: portfolio
-permalink: /portfolio/blake_et_mortimer_tome_25
+permalink: /portfolio/blake_et_mortimer_tome_25sitemap: false
 excerpt: "<img src='../dedicace/blake_et_mortimer_tome_25.jpg'>"
 date: 2019-09-14
 ---

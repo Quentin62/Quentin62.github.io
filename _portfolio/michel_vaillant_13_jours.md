@@ -1,7 +1,7 @@
 ---
 title: "Michel Vaillant : 13 jours"
 collection: portfolio
-permalink: /portfolio/michel_vaillant_13_jours
+permalink: /portfolio/michel_vaillant_13_jourssitemap: false
 excerpt: "<img src='../dedicace/michel_vaillant_13_jours.jpg'>"
 date: 2024-09-07
 ---

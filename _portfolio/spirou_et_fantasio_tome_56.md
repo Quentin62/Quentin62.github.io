@@ -1,7 +1,7 @@
 ---
 title: "Spirou et Fantasio : La mort de Spirou"
 collection: portfolio
-permalink: /portfolio/spirou_et_fantasio_tome_56
+permalink: /portfolio/spirou_et_fantasio_tome_56sitemap: false
 excerpt: "<img src='../dedicace/spirou_et_fantasio_tome_56.jpg'>"
 date: 2022-09-10
 ---

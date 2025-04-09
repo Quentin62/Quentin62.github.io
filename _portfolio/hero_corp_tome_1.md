@@ -1,7 +1,7 @@
 ---
 title: "Hero corp : Tome 1"
 collection: portfolio
-permalink: /portfolio/hero_corp_tome_1
+permalink: /portfolio/hero_corp_tome_1sitemap: false
 excerpt: "<img src='../dedicace/hero_corp_tome_1.jpg'>"
 date: 2013-04-13
 ---

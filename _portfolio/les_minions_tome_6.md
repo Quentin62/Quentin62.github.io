@@ -1,7 +1,7 @@
 ---
 title: "Les minions : Mini boss kabuki"
 collection: portfolio
-permalink: /portfolio/les_minions_tome_6
+permalink: /portfolio/les_minions_tome_6sitemap: false
 excerpt: "<img src='../dedicace/les_minions_tome_6.jpg'>"
 date: 2024-11-16
 ---
