@@ -1,7 +1,7 @@
 ---
 title: "Spirou classique : La baie des cochons"
 collection: portfolio
-permalink: /portfolio/spirou_classique_la_baie_des_cochonssitemap: false
+permalink: /portfolio/spirou_classique_la_baie_des_cochons
 excerpt: "<img src='../dedicace/spirou_classique_la_baie_des_cochons.jpg'>"
 date: 2024-09-07
 ---

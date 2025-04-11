@@ -1,7 +1,7 @@
 ---
 title: "Lucky Luke : Un cowboy à Paris"
 collection: portfolio
-permalink: /portfolio/lucky_luke_tome_8sitemap: false
+permalink: /portfolio/lucky_luke_tome_8
 excerpt: "<img src='../dedicace/lucky_luke_tome_8.jpg'>"
 date: 2023-11-18
 ---

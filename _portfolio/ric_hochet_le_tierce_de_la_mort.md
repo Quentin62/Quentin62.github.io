@@ -1,7 +1,7 @@
 ---
 title: "Les nouvelles aventures de Ric Hochet : Le tiercé de la mort"
 collection: portfolio
-permalink: /portfolio/ric_hochet_le_tierce_de_la_mortsitemap: false
+permalink: /portfolio/ric_hochet_le_tierce_de_la_mort
 excerpt: "<img src='../dedicace/ric_hochet_le_tierce_de_la_mort.jpg'>"
 date: 2023-09-10
 ---

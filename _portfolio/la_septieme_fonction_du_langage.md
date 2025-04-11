@@ -1,7 +1,7 @@
 ---
 title: "La Septième Fonction du Langage : "
 collection: portfolio
-permalink: /portfolio/la_septieme_fonction_du_langagesitemap: false
+permalink: /portfolio/la_septieme_fonction_du_langage
 excerpt: "<img src='../dedicace/la_septieme_fonction_du_langage.jpg'>"
 date: 2023-04-01
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nelson : Tome 25"
 collection: portfolio
-permalink: /portfolio/nelson_tome_25sitemap: false
+permalink: /portfolio/nelson_tome_25
 excerpt: "<img src='../dedicace/nelson_tome_25.jpg'>"
 date: 2023-11-18
 ---

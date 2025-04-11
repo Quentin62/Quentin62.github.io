@@ -1,7 +1,7 @@
 ---
 title: "Lapinot : Par Toutatis !"
 collection: portfolio
-permalink: /portfolio/lapinot_par_toutatissitemap: false
+permalink: /portfolio/lapinot_par_toutatis
 excerpt: "<img src='../dedicace/lapinot_par_toutatis.jpg'>"
 date: 2022-09-10
 ---

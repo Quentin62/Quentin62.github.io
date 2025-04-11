@@ -1,7 +1,7 @@
 ---
 title: "Rubine : Les mémoires troubles"
 collection: portfolio
-permalink: /portfolio/rubine_les_memoires_troublessitemap: false
+permalink: /portfolio/rubine_les_memoires_troubles
 excerpt: "<img src='../dedicace/rubine_les_memoires_troubles.jpg'>"
 date: 2018-11-10
 ---

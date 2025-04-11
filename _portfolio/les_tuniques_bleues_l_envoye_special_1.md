@@ -1,7 +1,7 @@
 ---
 title: "Les Tuniques Bleues : L'envoyé spécial"
 collection: portfolio
-permalink: /portfolio/les_tuniques_bleues_l_envoye_special_1sitemap: false
+permalink: /portfolio/les_tuniques_bleues_l_envoye_special_1
 excerpt: "<img src='../dedicace/les_tuniques_bleues_l_envoye_special_1.jpg'>"
 date: 2024-09-07
 ---

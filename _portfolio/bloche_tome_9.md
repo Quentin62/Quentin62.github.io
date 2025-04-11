@@ -1,7 +1,7 @@
 ---
 title: "Jérôme K. Jérôme Bloche : L'absent"
 collection: portfolio
-permalink: /portfolio/bloche_tome_9sitemap: false
+permalink: /portfolio/bloche_tome_9
 excerpt: "<img src='../dedicace/bloche_tome_9.jpg'>"
 date: 2022-09-10
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Comme des bêtes : Tome 1"
 collection: portfolio
-permalink: /portfolio/comme_des_betes_tome_1sitemap: false
+permalink: /portfolio/comme_des_betes_tome_1
 excerpt: "<img src='../dedicace/comme_des_betes_tome_1.jpg'>"
 date: 2024-11-16
 ---

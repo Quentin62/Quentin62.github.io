@@ -1,7 +1,7 @@
 ---
 title: "Disney/glénat : Mickey all stars"
 collection: portfolio
-permalink: /portfolio/mickey_all_starssitemap: false
+permalink: /portfolio/mickey_all_stars
 excerpt: "<img src='../dedicace/mickey_all_stars.jpg'>"
 date: 2024-11-16
 ---

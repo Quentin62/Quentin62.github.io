@@ -1,7 +1,7 @@
 ---
 title: "Des histoires courtes du Marsupilami par : Tome 1"
 collection: portfolio
-permalink: /portfolio/marsupilami_histoires_courtes_tome_1_0sitemap: false
+permalink: /portfolio/marsupilami_histoires_courtes_tome_1_0
 excerpt: "<img src='../dedicace/marsupilami_histoires_courtes_tome_1_0.jpg'>"
 date: 2022-11-20
 ---

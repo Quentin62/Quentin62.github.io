@@ -1,7 +1,7 @@
 ---
 title: "Le Spirou de : Le triomphe de Zorglub"
 collection: portfolio
-permalink: /portfolio/spirou_de_triomphe_de_zorglubsitemap: false
+permalink: /portfolio/spirou_de_triomphe_de_zorglub
 excerpt: "<img src='../dedicace/spirou_de_triomphe_de_zorglub.jpg'>"
 date: 2019-09-14
 ---

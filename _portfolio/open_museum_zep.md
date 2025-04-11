@@ -1,7 +1,7 @@
 ---
 title: "Open museum zep : carte postale"
 collection: portfolio
-permalink: /portfolio/open_museum_zepsitemap: false
+permalink: /portfolio/open_museum_zep
 excerpt: "<img src='../dedicace/open_museum_zep.jpg'>"
 date: 2016-03-18
 ---

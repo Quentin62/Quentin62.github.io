@@ -1,7 +1,7 @@
 ---
 title: "L'atelier Mastodonte : Tome 1"
 collection: portfolio
-permalink: /portfolio/l_atelier_mastodonte_tome_1sitemap: false
+permalink: /portfolio/l_atelier_mastodonte_tome_1
 excerpt: "<img src='../dedicace/l_atelier_mastodonte_tome_1.jpg'>"
 date: 2019-09-14
 ---

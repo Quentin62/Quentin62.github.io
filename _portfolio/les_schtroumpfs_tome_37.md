@@ -1,7 +1,7 @@
 ---
 title: "Les Schtroumpfs : Les Schtroumpfs et la machine à rêver"
 collection: portfolio
-permalink: /portfolio/les_schtroumpfs_tome_37sitemap: false
+permalink: /portfolio/les_schtroumpfs_tome_37
 excerpt: "<img src='../dedicace/les_schtroumpfs_tome_37.jpg'>"
 date: 2025-04-05
 ---

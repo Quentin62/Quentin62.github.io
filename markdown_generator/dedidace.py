@@ -22,7 +22,6 @@ for (serie, album), rows in dat.groupby(["Série", "Album"]):
 
         md += """collection: portfolio"""
         md += """\npermalink: /portfolio/""" + html_filename
-        md += """sitemap: false"""
 
         img = f"<img src='../{folder_img}{files.iloc[0]}'>"
         md += '\nexcerpt: "' + img + '"'
