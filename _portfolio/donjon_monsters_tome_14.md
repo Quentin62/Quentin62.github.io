@@ -1,5 +1,5 @@
 ---
-title: "Donjon : Donjon monster tome 14"
+title: "Donjon monsters : Tome 14"
 collection: portfolio
 permalink: /portfolio/donjon_monsters_tome_14
 excerpt: "<img src='../dedicace/donjon_monsters_tome_14.jpg'>"

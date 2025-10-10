@@ -1,5 +1,5 @@
 ---
-title: "Spirou : Lune Fatale"
+title: "Spirou et Fantasio : Lune Fatale"
 collection: portfolio
 permalink: /portfolio/spirou_et_fantasio_tome_45
 excerpt: "<img src='../dedicace/spirou_et_fantasio_tome_45.jpg'>"
